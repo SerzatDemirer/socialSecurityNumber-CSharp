@@ -1,0 +1,15 @@
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/SocialSecurityNumber.csproj.AssemblyReference.cache
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/SocialSecurityNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/SocialSecurityNumber.AssemblyInfoInputs.cache
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/SocialSecurityNumber.AssemblyInfo.cs
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/SocialSecurityNumber.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/bin/Debug/net7.0/SocialSecurityNumber
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/bin/Debug/net7.0/SocialSecurityNumber.deps.json
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/bin/Debug/net7.0/SocialSecurityNumber.runtimeconfig.json
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/bin/Debug/net7.0/SocialSecurityNumber.dll
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/bin/Debug/net7.0/SocialSecurityNumber.pdb
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/SocialSecurityNumber.dll
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/refint/SocialSecurityNumber.dll
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/SocialSecurityNumber.pdb
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/SocialSecurityNumber.genruntimeconfig.cache
+/Users/mac/Projects/SocialSecurityNumber/SocialSecurityNumber/obj/Debug/net7.0/ref/SocialSecurityNumber.dll

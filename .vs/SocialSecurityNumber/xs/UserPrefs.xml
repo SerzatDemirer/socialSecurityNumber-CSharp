@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BBE93486-8D64-43FA-BF46-EF1FBE5C0637}|Default">
+  <MonoDevelop.Ide.ItemProperties.SocialSecurityNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SocialSecurityNumber/Program.cs">
+    <Files>
+      <File FileName="SocialSecurityNumber/Program.cs" Line="51" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SocialSecurityNumber" expanded="True">
+            <Node name="SocialSecurityNumber" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
